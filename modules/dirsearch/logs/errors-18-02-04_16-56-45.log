@@ -1,0 +1,22 @@
+
+[18-02-04 16:56:47] - http://kalteng.polri.go.id/ - .htaccess - CONNECTION TIMEOUT: There was a problem in the request to: .htaccess
+[18-02-04 16:56:48] - http://kalteng.polri.go.id/ - .htpasswd - CONNECTION TIMEOUT: There was a problem in the request to: .htpasswd
+[18-02-04 16:56:48] - http://kalteng.polri.go.id/ - .htgroup - CONNECTION TIMEOUT: There was a problem in the request to: .htgroup
+[18-02-04 16:56:49] - http://kalteng.polri.go.id/ - .wwwacl - CONNECTION TIMEOUT: There was a problem in the request to: .wwwacl
+[18-02-04 16:56:49] - http://kalteng.polri.go.id/ - .www_acl - CONNECTION TIMEOUT: There was a problem in the request to: .www_acl
+[18-02-04 16:56:51] - http://kalteng.polri.go.id/ - _vti_pvt/authors.pwd - CONNECTION TIMEOUT: There was a problem in the request to: _vti_pvt/authors.pwd
+[18-02-04 16:56:51] - http://kalteng.polri.go.id/ - _vti_pvt/users.pwd - CONNECTION TIMEOUT: There was a problem in the request to: _vti_pvt/users.pwd
+[18-02-04 16:56:51] - http://kalteng.polri.go.id/ - _vti_pvt/administrators.pwd - CONNECTION TIMEOUT: There was a problem in the request to: _vti_pvt/administrators.pwd
+[18-02-04 16:56:54] - http://kalteng.polri.go.id/ - admin4.nsf - CONNECTION TIMEOUT: There was a problem in the request to: admin4.nsf
+[18-02-04 16:57:00] - http://kalteng.polri.go.id/ - CFIDE/Administrator/startstop.html - CONNECTION TIMEOUT: There was a problem in the request to: CFIDE/Administrator/startstop.html
+[18-02-04 16:57:04] - http://kalteng.polri.go.id/ - domcfg.nsf - CONNECTION TIMEOUT: There was a problem in the request to: domcfg.nsf
+[18-02-04 16:57:07] - http://kalteng.polri.go.id/ - heip65_admin.nsf - CONNECTION TIMEOUT: There was a problem in the request to: heip65_admin.nsf
+[18-02-04 16:57:07] - http://kalteng.polri.go.id/ - httpd.conf - CONNECTION TIMEOUT: There was a problem in the request to: httpd.conf
+[18-02-04 16:57:14] - http://kalteng.polri.go.id/ - p_/webdav/xmltools/minidom/xml/sax/saxutils/os/popen2?cmd=dir - CONNECTION TIMEOUT: There was a problem in the request to: p_/webdav/xmltools/minidom/xml/sax/saxutils/os/popen2?cmd=dir
+[18-02-04 16:57:19] - http://kalteng.polri.go.id/ - soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml - CONNECTION TIMEOUT: There was a problem in the request to: soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+[18-02-04 16:57:22] - http://kalteng.polri.go.id/ - Trace.axd - CONNECTION TIMEOUT: There was a problem in the request to: Trace.axd
+[18-02-04 16:57:25] - http://kalteng.polri.go.id/ - WS_FTP.LOG - CONNECTION TIMEOUT: There was a problem in the request to: WS_FTP.LOG
+[18-02-04 16:57:25] - http://kalteng.polri.go.id/ - WS_FTP.ini - CONNECTION TIMEOUT: There was a problem in the request to: WS_FTP.ini
+[18-02-04 16:57:25] - http://kalteng.polri.go.id/ - ws_ftp.ini - CONNECTION TIMEOUT: There was a problem in the request to: ws_ftp.ini
+[18-02-04 16:57:25] - http://kalteng.polri.go.id/ - WS_FTP.log - CONNECTION TIMEOUT: There was a problem in the request to: WS_FTP.log
+[18-02-04 16:57:25] - http://kalteng.polri.go.id/ - xsql/lib/XSQLConfig.xml - CONNECTION TIMEOUT: There was a problem in the request to: xsql/lib/XSQLConfig.xml
